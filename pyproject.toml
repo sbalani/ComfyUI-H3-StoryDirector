@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-h3-storydirector"
-version = "1.0.1"
+version = "1.0.2"
 description = "Endangered AI H3 workflow tools"
 requires-python = ">=3.10"
 [project.urls]
